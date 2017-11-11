@@ -1,4 +1,4 @@
 cse628
 ======
 
-Natural Languge Processing
+Natural Language Processing
